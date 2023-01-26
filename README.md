@@ -1,0 +1,2 @@
+# fridgebot
+Be fridgey!
